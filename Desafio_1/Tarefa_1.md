@@ -1,5 +1,4 @@
- 1. 
-	Ao analisar o JSON fornecido, identifiquei que ele é um conjunto de dados 		estruturados que representa informações de comandas, incluindo impostos, 		itens 	consumidos, descontos, falhas e serviços.
+ 1. Ao analisar o JSON fornecido, identifiquei que ele é um conjunto de dados estruturados que representa informações de comandas, incluindo impostos, itens 	consumidos, descontos, falhas e serviços.
 
 	**guestChecks**:
 
@@ -17,7 +16,7 @@
 
 	É um objeto aninhado dentro de detailLines, que contém informações detalhadas sobre o produto consumido, como preços, níveis de preço e impostos aplicáveis.
 
-Além disso, o JSON também prevê a presença de quatro outros objetos que não foram incluídos neste exemplo:
+	Além disso, o JSON também prevê a presença de quatro outros objetos que não foram incluídos neste exemplo:
 
 	**discount**: Relacionado a descontos aplicáveis às comandas.
 
