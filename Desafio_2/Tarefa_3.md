@@ -1,4 +1,4 @@
-3. **Considere que a resposta do endpoint getGuestChecks foi alterada, por exemplo, guestChecks.taxes foi renomeado para guestChecks.taxation. O que isso implicaria?**
+**3. Considere que a resposta do endpoint getGuestChecks foi alterada, por exemplo, guestChecks.taxes foi renomeado para guestChecks.taxation. O que isso implicaria?**
 
 Essa mudança impactaria todo o ciclo de processamento de dados, desde o início até a entrega final. Pipelines e sistemas integrados que dependem do dado original deixariam de funcionar corretamente.
 
