@@ -57,6 +57,12 @@ Explique o impacto dessa alteração. O que isso implicaria no armazenamento e n
 
 Boa sorte!
 
+### Documentação das Etapas com o Método Kanban ###
+
+🔗 Confira os detalhes no seguinte link:   [KANBAN](https://trello.com/invite/b/67447bd4b8672da01ee4f6e0/ATTI9475017ca2ceac4735c5499130c2e84fAA5FDF6B/eng-dados)
+
+
+
 ### Estrutura do Projeto ###
 
 ```plaintext
