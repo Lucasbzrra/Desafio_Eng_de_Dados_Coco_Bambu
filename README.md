@@ -42,3 +42,19 @@ Explique o impacto dessa alteração. O que isso implicaria no armazenamento e n
 - Pense em soluções que possam ser escaláveis e facilmente mantidas à medida que o volume de dados cresce.
 
 Boa sorte!
+
+### Estrutura do Projeto ###
+
+```plaintext
+├── Desafio_1/
+│   ├── Tarefa_1.md
+│   ├── Tarefa_2.md
+│   └── Tarefa_3.md
+|
+├── Desafio_2/
+│   ├── Tarefa_1.md
+│   ├── Tarefa_2.md
+│   └── Tarefa_3.md
+│
+└── README.md
+
