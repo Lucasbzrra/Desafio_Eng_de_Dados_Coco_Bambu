@@ -1,4 +1,4 @@
-# Desafio Engenharia de Dados - Restaurante
+# Desafio Engenharia de Dados - Coco Bambu
 
 Olá, candidato! Bem-vindo!  
 Queremos conhecer um pouco mais sobre a sua forma de desenvolver aplicações e resolver problemas. Por isso, preparamos um pequeno desafio, conforme descrito a seguir:
