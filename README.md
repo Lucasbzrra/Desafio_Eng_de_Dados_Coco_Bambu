@@ -25,6 +25,20 @@ Descreva a abordagem que você escolheu para resolver este desafio. Justifique a
 
 ## DESAFIO 2
 
+Nossa equipe de inteligência de negócios precisa analisar a receita de todas as lojas de uma rede de restaurantes. Essas informações podem ser obtidas por meio de **5 endpoints de API**.
+
+| **Method** | **API/Endpoint**                | **Payload**                                                                 |
+|------------|---------------------------------|-----------------------------------------------------------------------------|
+| POST       | `/bi/getFiscalInvoice`          | `busDt: string(date)`, `storeId: string`                                    |
+| POST       | `/res/getGuestChecks`           | `busDt: string(date)`, `storeId: string`                                    |
+| POST       | `/org/getChargeBack`            | `busDt: string(date)`, `storeId: string`                                    |
+| POST       | `/trans/getTransactions`        | `busDt: string(date)`, `storeId: string`                                    |
+| POST       | `/inv/getCashManagementDetails` | `busDt: string(date)`, `storeId: string`                                    |
+
+**Observação:**  
+- `storeId` corresponde ao identificador da loja.  
+- `busDt` corresponde à data de operação.
+
 ### 1. [Por que armazenar as respostas das APIs?](https://github.com/Lucasbzrra/Desafio_Eng_de_Dados_Coco_Bambu/blob/main/Desafio_2/Tarefa_1.md)
 Explique as razões pelas quais é importante armazenar as respostas das APIs no data lake. Considere questões de desempenho, integridade dos dados e facilidade de análise.
 
